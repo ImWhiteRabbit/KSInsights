@@ -1,4 +1,4 @@
-# KSIngishts
+# KSInsights
 
 📊 A weekly-updated dataset of **Kickstarter** projects in the **Technology** and **Design** categories (live & upcoming).  
 🛠️ Built for creators, product developers, and researchers who want to track crowdfunding trends and discover market opportunities.
