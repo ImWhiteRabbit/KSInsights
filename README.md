@@ -87,10 +87,10 @@ We use a Python-based scraper that queries Kickstarter's public project listings
 ---
 
 ## 🌐 Related Resources
-KS Insights – Crowdfunding analytics, reports, and insights.
+🌍 [KS Insights](https://ksinsights.com)
 
 ## 📬 Contact
-Have questions, suggestions, or want to collaborate?
-📧 Email: domingo@ksinsights.com
+Have questions, suggestions, or need custom dataset?
+📧 [domingo@ksinsights.com](mailto:domingo@ksinsights.com)
 
 ---
