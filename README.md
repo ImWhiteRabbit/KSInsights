@@ -87,14 +87,18 @@ We use a Python-based scraper that queries Kickstarter's public project listings
 
 ---
 
-## 🌐 Related Resources
-🌍 [KS Insights](https://ksinsights.com)
-
-## 📬 Contact
-Have questions, suggestions, or need custom dataset?
-📧 [domingo@ksinsights.com](mailto:domingo@ksinsights.com)
+## MIT License
+Pull requests welcome!
 
 ---
 
-## MIT License
-Pull requests welcome!
+## 🌐 Related Resources
+🌍 [KS Insights](https://ksinsights.com)
+
+---
+
+## 📬 Contact Us
+Have questions, suggestions, or need custom dataset?
+📧 [domingo@ksinsights.com](mailto:domingo@ksinsights.com)
+
+
