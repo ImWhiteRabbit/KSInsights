@@ -94,7 +94,10 @@ Pull requests welcome!
 
 ## 🌐 Related Resources
 🌍 [KS Insights](https://ksinsights.com)
+
 🌍 [Kickstarter Historical Dataset – 629,147 Projects (as of May 2025)](https://domingosun.gumroad.com/l/kickstarter)
+
+
 ---
 
 ## 📬 Contact Us
